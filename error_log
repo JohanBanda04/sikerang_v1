@@ -1,0 +1,2 @@
+[14-Dec-2022 17:00:52 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php81/sess_163bc6884d9f8fb047702a1cd563f5b0, O_RDWR) failed: No such file or directory (2) in /home/u1701554/public_html/kelolaBarang/index.php on line 2
+[14-Dec-2022 17:00:52 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php81) in /home/u1701554/public_html/kelolaBarang/index.php on line 2
